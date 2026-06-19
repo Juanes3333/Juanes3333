@@ -10,9 +10,7 @@ Currently focused on building real-world projects while strengthening my softwar
 
 ## Tech Stack
 
-**Python • Django • Java • JavaScript • SQL**
-
-**PostgreSQL • MongoDB • Git • Figma**
+**Python • Django • Java • JavaScript • Web Developer • SQL and NOSQL • Figma**
 
 ---
 
