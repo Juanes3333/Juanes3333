@@ -4,7 +4,7 @@
 
 I build software and digital products.
 
-I'm a Systems Engineering and Interactive Media Design student at Universidad Icesi, interested in backend development, full-stack applications, databases, and product design.
+I'm a Software Engineering and Interactive Media Design student at Universidad Icesi, interested in backend development, full-stack applications, databases, and product design.
 
 Currently focused on building real-world projects while strengthening my software engineering foundations.
 
