@@ -16,9 +16,10 @@ Currently focused on building real-world projects while strengthening my softwar
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juanes3333\&theme=merko\&border_radius=20\&date_format=j%20M%5B%20Y%5D\&mode=weekly\&hide_current_streak=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanes3333\&layout=compact\&theme=merko\&border_radius=20)
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Juanes3333&theme=merko&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_current_streak=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanes3333&layout=compact&theme=merko&border_radius=20" />
+</p>
 
 ---
 
